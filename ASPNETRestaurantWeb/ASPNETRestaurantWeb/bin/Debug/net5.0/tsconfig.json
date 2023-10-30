@@ -1,0 +1,22 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "noImplicitAny": false,
+    "noEmitOnError": true,
+    "removeComments": false,
+    "sourceMap": true,
+    "target": "es5",
+    "outDir": "wwwroot/js",
+    "types": [ "node" ],
+    "typeRoots": [ "../node_modules/@types" ]
+  },
+  "include": [
+    "scripts/**/*",
+    "src/**/*.ts",
+    "node_modules/@types/jquery/index.d.ts"
+  ],
+  "types": [
+    "webpack-env"
+  ]
+
+}

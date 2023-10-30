@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Fd4UTcIPWxse3w9gV1cqS9WMViqDXWO6TcjczXi9e7MxiqjvR2hznuGvZ9GjVJe/t2fb/NVkz+iiblzFkNxvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\ASPNETRestaurantWeb\\ASPNETRestaurantWeb\\ASPNETRestaurantWeb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.typescript.msbuild\\5.0.2\\microsoft.typescript.msbuild.5.0.2.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\node.js\\0.12.7\\node.js.0.12.7.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\nogit\\0.1.0\\nogit.0.1.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\npm\\3.5.2\\npm.3.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

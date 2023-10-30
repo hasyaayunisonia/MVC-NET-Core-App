@@ -1,0 +1,4 @@
+"devDependencies": {
+   "gulp": "4.0.2",
+  "@types/jquery": "5.3.1"
+}
